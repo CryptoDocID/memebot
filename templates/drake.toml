@@ -1,0 +1,22 @@
+name="Drake Yes/No"
+short_name="drake"
+image="./drake.png"
+
+[[features]]
+kind="Either"
+x=448
+y=0
+w=444
+h=351
+margin_left=10
+margin_top=10
+font_size=40
+[[features]]
+kind="Either"
+x=448
+y=350
+w=444
+h=351
+margin_left=10
+margin_top=10
+font_size=40
